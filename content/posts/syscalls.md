@@ -1,6 +1,7 @@
 +++
 title = 'Syscalls - Messing with Shellcode and Seccomp Filters'
 date = 2024-07-25T17:51:11-04:00
+publishDate = 2024-07-25
 tags = ['ctf', 'pwn', 'writeup']
 +++
 
