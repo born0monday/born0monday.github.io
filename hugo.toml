@@ -1,0 +1,22 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = "born0monday's blog"
+theme = 'ficurinia'
+
+copyright = "born0monday"
+
+[params]
+    author = "born0monday"
+    description = "born0monday's blog"
+    logo = "/img.svg"
+    showRss = false
+
+[menu]
+    [[menu.icons]]
+        identifier = "mastodon"
+        name = "Mastodon"
+        url = "https://chaos.social/@born0monday"
+    [[menu.icons]]
+        identifier = "github"
+        name = "Github"
+        url = "https://github.com/born0monday"
